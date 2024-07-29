@@ -34,31 +34,31 @@ To set up the project locally, follow these steps:
 
 ### Features Implementation 
 1. **Add Product** -
-1.1  Navigate to the "Add Product" page.
-1.2 Fill in the product details, including name, description, price, discount, colors, gender, brands, occasion, categories, and image.
-1.3 Click "Submit" to add the product.
+   1. Navigate to the "Add Product" page.
+   2. Fill in the product details, including name, description, price, discount, colors, gender, brands, occasion, categories, and image.
+   3. Click "Submit" to add the product.
    
 2. **Edit Product** -
-2.1 Navigate to the "Product List" page.
-2.2 Click the "Edit" button next to the product you want to update.
-2.3 Update the necessary details.
-2.4 Click "Submit" to save the changes.
+   1. Navigate to the "Product List" page.
+   2. Click the "Edit" button next to the product you want to update.
+   3. Update the necessary details.
+   4. Click "Submit" to save the changes.
 
 3. **Delete Product** -
-3.1 Navigate to the "Product List" page.
-3.2 Click the "Delete" button next to the product you want to remove.
-3.3 Confirm the deletion to remove the product from the database.
+   1. Navigate to the "Product List" page.
+   2. Click the "Delete" button next to the product you want to remove.
+   3. Confirm the deletion to remove the product from the database.
 
 4. **Sorting** -
-4.1 Use the sorting options on the "Product List" page to sort products by various criteria such as price, rating, and date.
+   1. Use the sorting options on the "Product List" page to sort products by various criteria such as price, rating, and date.
 
 5. **Filtering** -
-5.1 Use the filtering options on the "Product List" page to filter products by brand, category, price range, gender, occasion, and discount.
+    1. Use the filtering options on the "Product List" page to filter products by brand, category, price range, gender, occasion, and discount.
 
-6. **Pagination**
+11. **Pagination**
 6.1 Use the pagination controls on the "Product List" page to navigate through the list of products.
 
 ### Application Demo
 You can view a demo video of the application showcasing the implemented functionalities with below link.
-**Demo Link** :
-https://drive.google.com/file/d/1TfNj4ljeCaIeY46iYrqYdTlmRsQ3Zwjo/view?usp=drivesdk
+
+**Demo Link** : https://drive.google.com/file/d/1TfNj4ljeCaIeY46iYrqYdTlmRsQ3Zwjo/view?usp=drivesdk
